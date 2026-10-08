@@ -1,0 +1,218 @@
+SKU,Product,From,To,Units,Note
+ELE-0036,Stainless LED Bulb M8,Hyderabad,Chennai,20,route capacity 120
+ELE-0036,Stainless LED Bulb M8,Mumbai,Hyderabad,20,route capacity 80
+ELE-0036,Stainless LED Bulb M8,Mumbai,Chennai,60,route capacity 60
+ELE-0042,Rubber Switch Socket 50mm,(none),Kolkata,180,UNMET: no spare stock or route
+ELE-0124,Brass LED Bulb M8,(none),Delhi,225,UNMET: no spare stock or route
+ELE-0124,Brass LED Bulb M8,(none),Chennai,52,UNMET: no spare stock or route
+ELE-0143,Rubber Cable Tie M8,(none),Kolkata,58,UNMET: no spare stock or route
+ELE-0195,Heavy Duty Switch Socket M8,(none),Mumbai,82,UNMET: no spare stock or route
+ELE-0215,Galvanized Glass Fuse 1 inch,(none),Delhi,71,UNMET: no spare stock or route
+ELE-0237,Steel Cable Tie 50mm,(none),Mumbai,165,UNMET: no spare stock or route
+ELE-0322,Brass Cable Tie 50mm,(none),Hyderabad,37,UNMET: no spare stock or route
+ELE-0404,Industrial Switch Socket 1 inch,(none),Kolkata,129,UNMET: no spare stock or route
+ELE-0417,Rubber Switch Socket M10,(none),Hyderabad,74,UNMET: no spare stock or route
+ELE-0417,Rubber Switch Socket M10,(none),Delhi,1,UNMET: no spare stock or route
+ELE-0477,Steel Switch Socket 12mm,(none),Mumbai,9,UNMET: no spare stock or route
+ELE-0486,Industrial Cable Tie M10,(none),Delhi,54,UNMET: no spare stock or route
+ELE-0486,Industrial Cable Tie M10,(none),Chennai,41,UNMET: no spare stock or route
+ELE-0692,Steel LED Bulb M6,(none),Kolkata,161,UNMET: no spare stock or route
+FAS-0012,Galvanized Wood Screw 12mm,(none),Hyderabad,22,UNMET: no spare stock or route
+FAS-0012,Galvanized Wood Screw 12mm,(none),Kolkata,7,UNMET: no spare stock or route
+FAS-0027,Premium Hex Bolt 25mm,(none),Kolkata,5,UNMET: no spare stock or route
+FAS-0086,Stainless Rivet 25mm,(none),Chennai,7,UNMET: no spare stock or route
+FAS-0086,Stainless Rivet 25mm,(none),Kolkata,5,UNMET: no spare stock or route
+FAS-0088,Industrial Anchor Bolt 1 inch,(none),Hyderabad,111,UNMET: no spare stock or route
+FAS-0088,Industrial Anchor Bolt 1 inch,(none),Chennai,11,UNMET: no spare stock or route
+FAS-0096,Galvanized Rivet 25mm,(none),Hyderabad,50,UNMET: no spare stock or route
+FAS-0096,Galvanized Rivet 25mm,(none),Chennai,83,UNMET: no spare stock or route
+FAS-0096,Galvanized Rivet 25mm,(none),Kolkata,144,UNMET: no spare stock or route
+FAS-0111,Compact Hex Nut M10,(none),Hyderabad,58,UNMET: no spare stock or route
+FAS-0157,Heavy Duty Hex Nut 1 inch,(none),Kolkata,46,UNMET: no spare stock or route
+FAS-0219,Steel Hex Nut M8,(none),Kolkata,89,UNMET: no spare stock or route
+FAS-0228,Galvanized Anchor Bolt 12mm,(none),Kolkata,28,UNMET: no spare stock or route
+FAS-0242,Steel Flat Washer 25mm,(none),Mumbai,121,UNMET: no spare stock or route
+FAS-0242,Steel Flat Washer 25mm,(none),Chennai,66,UNMET: no spare stock or route
+FAS-0269,Premium Wood Screw 50mm,(none),Delhi,16,UNMET: no spare stock or route
+FAS-0269,Premium Wood Screw 50mm,(none),Chennai,8,UNMET: no spare stock or route
+FAS-0271,Zinc Wood Screw 1 inch,(none),Hyderabad,40,UNMET: no spare stock or route
+FAS-0271,Zinc Wood Screw 1 inch,(none),Mumbai,16,UNMET: no spare stock or route
+FAS-0271,Zinc Wood Screw 1 inch,(none),Kolkata,1,UNMET: no spare stock or route
+FAS-0275,Rubber Anchor Bolt 25mm,(none),Kolkata,113,UNMET: no spare stock or route
+FAS-0315,Galvanized Rivet 1 inch,(none),Chennai,10,UNMET: no spare stock or route
+FAS-0327,Compact Anchor Bolt 25mm,(none),Mumbai,9,UNMET: no spare stock or route
+FAS-0330,Compact Anchor Bolt 2.5mm,(none),Chennai,36,UNMET: no spare stock or route
+FAS-0339,Galvanized Flat Washer 1 inch,(none),Hyderabad,60,UNMET: no spare stock or route
+FAS-0372,Heavy Duty Hex Bolt M6,(none),Mumbai,140,UNMET: no spare stock or route
+FAS-0372,Heavy Duty Hex Bolt M6,(none),Chennai,35,UNMET: no spare stock or route
+FAS-0375,Steel Flat Washer 12mm,(none),Chennai,46,UNMET: no spare stock or route
+FAS-0411,Industrial Flat Washer 50mm,(none),Hyderabad,151,UNMET: no spare stock or route
+FAS-0411,Industrial Flat Washer 50mm,(none),Kolkata,32,UNMET: no spare stock or route
+FAS-0419,Zinc Hex Bolt M6,(none),Hyderabad,44,UNMET: no spare stock or route
+FAS-0426,Brass Flat Washer M8,(none),Hyderabad,56,UNMET: no spare stock or route
+FAS-0426,Brass Flat Washer M8,(none),Delhi,47,UNMET: no spare stock or route
+FAS-0535,Brass Anchor Bolt 50mm,(none),Delhi,6,UNMET: no spare stock or route
+FAS-0535,Brass Anchor Bolt 50mm,(none),Kolkata,1,UNMET: no spare stock or route
+FAS-0538,Compact Wood Screw 50mm,(none),Chennai,181,UNMET: no spare stock or route
+FAS-0547,Compact Hex Bolt 25mm,(none),Mumbai,23,UNMET: no spare stock or route
+FAS-0562,Rubber Flat Washer M10,(none),Hyderabad,184,UNMET: no spare stock or route
+FAS-0562,Rubber Flat Washer M10,(none),Chennai,136,UNMET: no spare stock or route
+FAS-0573,Steel Rivet 50mm,(none),Kolkata,360,UNMET: no spare stock or route
+FAS-0579,Heavy Duty Rivet M8,(none),Mumbai,10,UNMET: no spare stock or route
+FAS-0599,Galvanized Wood Screw M6,(none),Hyderabad,89,UNMET: no spare stock or route
+FAS-0599,Galvanized Wood Screw M6,(none),Kolkata,45,UNMET: no spare stock or route
+FAS-0608,Compact Rivet 50mm,(none),Mumbai,248,UNMET: no spare stock or route
+FAS-0612,Steel Wood Screw M6,(none),Chennai,220,UNMET: no spare stock or route
+FAS-0631,Compact Hex Bolt M10,(none),Chennai,44,UNMET: no spare stock or route
+FAS-0631,Compact Hex Bolt M10,(none),Kolkata,27,UNMET: no spare stock or route
+FAS-0637,Zinc Hex Nut 2.5mm,(none),Hyderabad,54,UNMET: no spare stock or route
+FAS-0637,Zinc Hex Nut 2.5mm,(none),Delhi,60,UNMET: no spare stock or route
+FAS-0637,Zinc Hex Nut 2.5mm,(none),Chennai,203,UNMET: no spare stock or route
+FAS-0641,Compact Rivet 2.5mm,(none),Hyderabad,51,UNMET: no spare stock or route
+FAS-0673,Stainless Hex Nut M6,(none),Hyderabad,22,UNMET: no spare stock or route
+FAS-0688,Steel Rivet 25mm,(none),Delhi,56,UNMET: no spare stock or route
+PKG-0018,Rubber Packing Tape M10,(none),Mumbai,123,UNMET: no spare stock or route
+PKG-0052,Steel Packing Tape M10,(none),Hyderabad,21,UNMET: no spare stock or route
+PKG-0137,Zinc Bubble Wrap 12mm,(none),Chennai,141,UNMET: no spare stock or route
+PKG-0137,Zinc Bubble Wrap 12mm,(none),Kolkata,63,UNMET: no spare stock or route
+PKG-0138,Premium Label Roll M8,(none),Mumbai,16,UNMET: no spare stock or route
+PKG-0138,Premium Label Roll M8,(none),Kolkata,290,UNMET: no spare stock or route
+PKG-0145,Brass Bubble Wrap 2.5mm,(none),Delhi,6,UNMET: no spare stock or route
+PKG-0165,Steel Pallet Strap 25mm,(none),Mumbai,119,UNMET: no spare stock or route
+PKG-0165,Steel Pallet Strap 25mm,(none),Chennai,89,UNMET: no spare stock or route
+PKG-0182,Zinc Stretch Film 50mm,(none),Hyderabad,100,UNMET: no spare stock or route
+PKG-0182,Zinc Stretch Film 50mm,(none),Chennai,106,UNMET: no spare stock or route
+PKG-0191,Heavy Duty Bubble Wrap 50mm,(none),Chennai,156,UNMET: no spare stock or route
+PKG-0202,Premium Label Roll 25mm,(none),Mumbai,62,UNMET: no spare stock or route
+PKG-0202,Premium Label Roll 25mm,(none),Chennai,12,UNMET: no spare stock or route
+PKG-0231,Stainless Cardboard Box 1 inch,(none),Kolkata,65,UNMET: no spare stock or route
+PKG-0245,Zinc Cardboard Box 50mm,(none),Mumbai,90,UNMET: no spare stock or route
+PKG-0265,Premium Bubble Wrap 25mm,(none),Hyderabad,34,UNMET: no spare stock or route
+PKG-0265,Premium Bubble Wrap 25mm,(none),Delhi,83,UNMET: no spare stock or route
+PKG-0278,Industrial Label Roll 12mm,(none),Chennai,21,UNMET: no spare stock or route
+PKG-0278,Industrial Label Roll 12mm,(none),Kolkata,9,UNMET: no spare stock or route
+PKG-0287,Industrial Bubble Wrap 2.5mm,(none),Hyderabad,91,UNMET: no spare stock or route
+PKG-0287,Industrial Bubble Wrap 2.5mm,(none),Kolkata,12,UNMET: no spare stock or route
+PKG-0308,Compact Bubble Wrap 50mm,(none),Hyderabad,112,UNMET: no spare stock or route
+PKG-0308,Compact Bubble Wrap 50mm,(none),Chennai,63,UNMET: no spare stock or route
+PKG-0308,Compact Bubble Wrap 50mm,(none),Kolkata,31,UNMET: no spare stock or route
+PKG-0345,Galvanized Bubble Wrap 2.5mm,(none),Hyderabad,91,UNMET: no spare stock or route
+PKG-0345,Galvanized Bubble Wrap 2.5mm,(none),Delhi,76,UNMET: no spare stock or route
+PKG-0345,Galvanized Bubble Wrap 2.5mm,(none),Kolkata,120,UNMET: no spare stock or route
+PKG-0394,Compact Packing Tape 2.5mm,(none),Kolkata,98,UNMET: no spare stock or route
+PKG-0433,Compact Packing Tape 1 inch,(none),Mumbai,118,UNMET: no spare stock or route
+PKG-0433,Compact Packing Tape 1 inch,(none),Chennai,70,UNMET: no spare stock or route
+PKG-0445,Stainless Cardboard Box 12mm,(none),Mumbai,29,UNMET: no spare stock or route
+PKG-0445,Stainless Cardboard Box 12mm,(none),Delhi,21,UNMET: no spare stock or route
+PKG-0445,Stainless Cardboard Box 12mm,(none),Kolkata,42,UNMET: no spare stock or route
+PKG-0463,Stainless Stretch Film 25mm,(none),Hyderabad,98,UNMET: no spare stock or route
+PKG-0476,Zinc Stretch Film 12mm,Hyderabad,Mumbai,25,route capacity 100
+PKG-0554,Industrial Stretch Film M8,(none),Kolkata,2,UNMET: no spare stock or route
+PKG-0628,Zinc Pallet Strap 50mm,(none),Mumbai,19,UNMET: no spare stock or route
+PKG-0628,Zinc Pallet Strap 50mm,(none),Chennai,162,UNMET: no spare stock or route
+PKG-0628,Zinc Pallet Strap 50mm,(none),Kolkata,6,UNMET: no spare stock or route
+PKG-0655,Brass Stretch Film M10,(none),Delhi,48,UNMET: no spare stock or route
+PKG-0664,Stainless Cardboard Box 50mm,(none),Hyderabad,138,UNMET: no spare stock or route
+PKG-0685,Heavy Duty Packing Tape 1 inch,(none),Mumbai,19,UNMET: no spare stock or route
+PLU-0005,Stainless Water Tap 12mm,(none),Mumbai,19,UNMET: no spare stock or route
+PLU-0062,Heavy Duty Ball Valve 1 inch,(none),Chennai,30,UNMET: no spare stock or route
+PLU-0074,Galvanized Ball Valve 1 inch,(none),Delhi,24,UNMET: no spare stock or route
+PLU-0074,Galvanized Ball Valve 1 inch,(none),Kolkata,10,UNMET: no spare stock or route
+PLU-0078,Zinc Pipe Clamp 1 inch,Hyderabad,Mumbai,36,route capacity 100
+PLU-0139,Zinc Elbow Joint 25mm,(none),Mumbai,129,UNMET: no spare stock or route
+PLU-0149,Heavy Duty Water Tap M10,(none),Hyderabad,66,UNMET: no spare stock or route
+PLU-0152,Brass Pipe Clamp 1 inch,(none),Hyderabad,24,UNMET: no spare stock or route
+PLU-0152,Brass Pipe Clamp 1 inch,(none),Mumbai,7,UNMET: no spare stock or route
+PLU-0152,Brass Pipe Clamp 1 inch,(none),Delhi,130,UNMET: no spare stock or route
+PLU-0206,Stainless Teflon Tape 1 inch,(none),Delhi,35,UNMET: no spare stock or route
+PLU-0206,Stainless Teflon Tape 1 inch,(none),Chennai,145,UNMET: no spare stock or route
+PLU-0210,Heavy Duty PVC Pipe 50mm,(none),Mumbai,100,UNMET: no spare stock or route
+PLU-0218,Stainless Teflon Tape 25mm,(none),Kolkata,207,UNMET: no spare stock or route
+PLU-0292,Steel PVC Pipe M6,(none),Mumbai,129,UNMET: no spare stock or route
+PLU-0292,Steel PVC Pipe M6,(none),Kolkata,18,UNMET: no spare stock or route
+PLU-0335,Industrial Ball Valve M6,(none),Mumbai,24,UNMET: no spare stock or route
+PLU-0377,Industrial PVC Pipe M8,(none),Hyderabad,253,UNMET: no spare stock or route
+PLU-0385,Brass Ball Valve 12mm,(none),Mumbai,95,UNMET: no spare stock or route
+PLU-0386,Heavy Duty PVC Pipe M8,(none),Delhi,15,UNMET: no spare stock or route
+PLU-0386,Heavy Duty PVC Pipe M8,(none),Chennai,91,UNMET: no spare stock or route
+PLU-0391,Stainless Water Tap 1 inch,Kolkata,Hyderabad,11,route capacity 100
+PLU-0391,Stainless Water Tap 1 inch,(none),Hyderabad,37,UNMET: no spare stock or route
+PLU-0443,Industrial Elbow Joint M10,(none),Kolkata,75,UNMET: no spare stock or route
+PLU-0513,Compact Pipe Clamp 1 inch,(none),Hyderabad,118,UNMET: no spare stock or route
+PLU-0513,Compact Pipe Clamp 1 inch,(none),Mumbai,46,UNMET: no spare stock or route
+PLU-0513,Compact Pipe Clamp 1 inch,(none),Delhi,126,UNMET: no spare stock or route
+PLU-0534,Industrial PVC Pipe 1 inch,Hyderabad,Chennai,49,route capacity 120
+PLU-0534,Industrial PVC Pipe 1 inch,(none),Chennai,57,UNMET: no spare stock or route
+PLU-0539,Stainless Elbow Joint 2.5mm,(none),Mumbai,8,UNMET: no spare stock or route
+PLU-0576,Zinc Elbow Joint M8,(none),Chennai,33,UNMET: no spare stock or route
+PLU-0601,Galvanized Ball Valve 25mm,(none),Mumbai,113,UNMET: no spare stock or route
+PLU-0632,Premium Elbow Joint 1 inch,(none),Mumbai,46,UNMET: no spare stock or route
+PLU-0632,Premium Elbow Joint 1 inch,(none),Chennai,76,UNMET: no spare stock or route
+PLU-0652,Steel Water Tap 50mm,(none),Hyderabad,143,UNMET: no spare stock or route
+PLU-0699,Industrial Elbow Joint 50mm,(none),Kolkata,14,UNMET: no spare stock or route
+PLU-0700,Stainless Elbow Joint M8,(none),Hyderabad,13,UNMET: no spare stock or route
+PLU-0700,Stainless Elbow Joint M8,(none),Chennai,9,UNMET: no spare stock or route
+SAF-0026,Heavy Duty Work Gloves M10,(none),Chennai,8,UNMET: no spare stock or route
+SAF-0043,Galvanized Work Gloves 50mm,(none),Kolkata,40,UNMET: no spare stock or route
+SAF-0044,Zinc Dust Mask M8,(none),Chennai,50,UNMET: no spare stock or route
+SAF-0044,Zinc Dust Mask M8,(none),Kolkata,2,UNMET: no spare stock or route
+SAF-0046,Stainless Dust Mask 2.5mm,(none),Kolkata,92,UNMET: no spare stock or route
+SAF-0216,Brass Ear Plug 50mm,(none),Mumbai,6,UNMET: no spare stock or route
+SAF-0238,Compact Work Gloves 25mm,(none),Delhi,5,UNMET: no spare stock or route
+SAF-0238,Compact Work Gloves 25mm,(none),Kolkata,25,UNMET: no spare stock or route
+SAF-0277,Brass Ear Plug 1 inch,(none),Mumbai,8,UNMET: no spare stock or route
+SAF-0277,Brass Ear Plug 1 inch,(none),Chennai,114,UNMET: no spare stock or route
+SAF-0277,Brass Ear Plug 1 inch,(none),Kolkata,336,UNMET: no spare stock or route
+SAF-0285,Heavy Duty Reflective Vest 1 inch,(none),Delhi,33,UNMET: no spare stock or route
+SAF-0285,Heavy Duty Reflective Vest 1 inch,(none),Chennai,39,UNMET: no spare stock or route
+SAF-0313,Steel Reflective Vest M10,(none),Mumbai,54,UNMET: no spare stock or route
+SAF-0313,Steel Reflective Vest M10,(none),Delhi,38,UNMET: no spare stock or route
+SAF-0402,Industrial Reflective Vest M6,(none),Chennai,21,UNMET: no spare stock or route
+SAF-0402,Industrial Reflective Vest M6,(none),Kolkata,9,UNMET: no spare stock or route
+SAF-0456,Heavy Duty Ear Plug 2.5mm,(none),Mumbai,219,UNMET: no spare stock or route
+SAF-0456,Heavy Duty Ear Plug 2.5mm,(none),Delhi,15,UNMET: no spare stock or route
+SAF-0459,Heavy Duty Dust Mask 2.5mm,(none),Chennai,83,UNMET: no spare stock or route
+SAF-0460,Heavy Duty Reflective Vest 25mm,(none),Hyderabad,56,UNMET: no spare stock or route
+SAF-0465,Stainless Reflective Vest 12mm,(none),Mumbai,37,UNMET: no spare stock or route
+SAF-0482,Rubber Ear Plug M8,(none),Delhi,202,UNMET: no spare stock or route
+SAF-0482,Rubber Ear Plug M8,(none),Chennai,220,UNMET: no spare stock or route
+SAF-0482,Rubber Ear Plug M8,(none),Kolkata,105,UNMET: no spare stock or route
+SAF-0499,Rubber Dust Mask 1 inch,(none),Chennai,141,UNMET: no spare stock or route
+SAF-0537,Premium Reflective Vest M6,(none),Hyderabad,40,UNMET: no spare stock or route
+SAF-0537,Premium Reflective Vest M6,(none),Chennai,44,UNMET: no spare stock or route
+SAF-0574,Stainless Work Gloves M10,(none),Hyderabad,212,UNMET: no spare stock or route
+SAF-0686,Compact Dust Mask M10,(none),Hyderabad,190,UNMET: no spare stock or route
+SAF-0686,Compact Dust Mask M10,(none),Delhi,215,UNMET: no spare stock or route
+SAF-0696,Rubber Dust Mask 50mm,(none),Hyderabad,16,UNMET: no spare stock or route
+TOL-0009,Compact Measuring Tape M10,(none),Hyderabad,105,UNMET: no spare stock or route
+TOL-0009,Compact Measuring Tape M10,(none),Mumbai,107,UNMET: no spare stock or route
+TOL-0010,Industrial Screwdriver Set M6,(none),Mumbai,141,UNMET: no spare stock or route
+TOL-0010,Industrial Screwdriver Set M6,(none),Kolkata,45,UNMET: no spare stock or route
+TOL-0020,Steel Measuring Tape 50mm,(none),Chennai,106,UNMET: no spare stock or route
+TOL-0021,Stainless Drill Bit 25mm,(none),Kolkata,76,UNMET: no spare stock or route
+TOL-0064,Compact Measuring Tape 25mm,(none),Mumbai,17,UNMET: no spare stock or route
+TOL-0064,Compact Measuring Tape 25mm,(none),Delhi,224,UNMET: no spare stock or route
+TOL-0064,Compact Measuring Tape 25mm,(none),Kolkata,210,UNMET: no spare stock or route
+TOL-0133,Zinc Adjustable Spanner M6,(none),Mumbai,90,UNMET: no spare stock or route
+TOL-0134,Zinc Hacksaw Blade 50mm,(none),Mumbai,282,UNMET: no spare stock or route
+TOL-0134,Zinc Hacksaw Blade 50mm,(none),Delhi,18,UNMET: no spare stock or route
+TOL-0207,Galvanized Hacksaw Blade M10,(none),Mumbai,41,UNMET: no spare stock or route
+TOL-0222,Industrial Adjustable Spanner M6,(none),Hyderabad,18,UNMET: no spare stock or route
+TOL-0222,Industrial Adjustable Spanner M6,(none),Chennai,201,UNMET: no spare stock or route
+TOL-0302,Galvanized Drill Bit 1 inch,(none),Hyderabad,83,UNMET: no spare stock or route
+TOL-0302,Galvanized Drill Bit 1 inch,(none),Delhi,148,UNMET: no spare stock or route
+TOL-0307,Stainless Measuring Tape M6,(none),Hyderabad,51,UNMET: no spare stock or route
+TOL-0309,Industrial Hacksaw Blade 12mm,(none),Kolkata,12,UNMET: no spare stock or route
+TOL-0382,Rubber Measuring Tape M10,(none),Hyderabad,37,UNMET: no spare stock or route
+TOL-0382,Rubber Measuring Tape M10,(none),Mumbai,1,UNMET: no spare stock or route
+TOL-0382,Rubber Measuring Tape M10,(none),Kolkata,288,UNMET: no spare stock or route
+TOL-0387,Steel Screwdriver Set 1 inch,(none),Hyderabad,97,UNMET: no spare stock or route
+TOL-0387,Steel Screwdriver Set 1 inch,(none),Mumbai,39,UNMET: no spare stock or route
+TOL-0446,Steel Measuring Tape M10,(none),Chennai,30,UNMET: no spare stock or route
+TOL-0497,Steel Measuring Tape 25mm,(none),Kolkata,62,UNMET: no spare stock or route
+TOL-0550,Industrial Drill Bit M10,(none),Kolkata,135,UNMET: no spare stock or route
+TOL-0622,Heavy Duty Measuring Tape M8,(none),Mumbai,66,UNMET: no spare stock or route
+TOL-0622,Heavy Duty Measuring Tape M8,(none),Chennai,54,UNMET: no spare stock or route
+TOL-0624,Zinc Drill Bit 2.5mm,Chennai,Hyderabad,2,route capacity 60
+TOL-0648,Zinc Claw Hammer M8,(none),Mumbai,14,UNMET: no spare stock or route
+TOL-0653,Galvanized Drill Bit 50mm,(none),Hyderabad,164,UNMET: no spare stock or route

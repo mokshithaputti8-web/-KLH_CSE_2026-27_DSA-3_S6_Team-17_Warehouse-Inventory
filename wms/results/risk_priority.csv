@@ -1,0 +1,21 @@
+Rank,ID,SKU,Product,Warehouse,Qty,Min,Demand/day,Days cover,Risk
+1,P000021,PLU-0005,Stainless Water Tap 12mm,Mumbai,44,63,9,4.9,100.0
+2,P000036,TOL-0009,Compact Measuring Tape M10,Mumbai,8,115,23,0.3,100.0
+3,P000043,TOL-0010,Industrial Screwdriver Set M6,Mumbai,129,270,27,4.8,100.0
+4,P000048,FAS-0012,Galvanized Wood Screw 12mm,Hyderabad,78,100,25,3.1,100.0
+5,P000049,FAS-0012,Galvanized Wood Screw 12mm,Kolkata,3,10,2,1.5,100.0
+6,P000080,TOL-0020,Steel Measuring Tape 50mm,Chennai,14,120,20,0.7,100.0
+7,P000085,TOL-0021,Stainless Drill Bit 25mm,Kolkata,0,76,19,0.0,100.0
+8,P000102,SAF-0026,Heavy Duty Work Gloves M10,Chennai,0,8,2,0.0,100.0
+9,P000141,ELE-0036,Stainless LED Bulb M8,Chennai,88,168,24,3.7,100.0
+10,P000166,ELE-0042,Rubber Switch Socket 50mm,Kolkata,20,200,20,1.0,100.0
+11,P000168,SAF-0043,Galvanized Work Gloves 50mm,Kolkata,0,40,4,0.0,100.0
+12,P000171,SAF-0044,Zinc Dust Mask M8,Chennai,46,96,16,2.9,100.0
+13,P000173,SAF-0044,Zinc Dust Mask M8,Kolkata,1,3,1,1.0,100.0
+14,P000181,SAF-0046,Stainless Dust Mask 2.5mm,Kolkata,132,224,28,4.7,100.0
+15,P000201,PKG-0052,Steel Packing Tape M10,Hyderabad,24,45,15,1.6,100.0
+16,P000255,TOL-0064,Compact Measuring Tape 25mm,Delhi,0,224,28,0.0,100.0
+17,P000256,TOL-0064,Compact Measuring Tape 25mm,Kolkata,0,210,35,0.0,100.0
+18,P000257,TOL-0064,Compact Measuring Tape 25mm,Mumbai,158,175,35,4.5,100.0
+19,P000297,PLU-0074,Galvanized Ball Valve 1 inch,Kolkata,26,36,6,4.3,100.0
+20,P000298,PLU-0074,Galvanized Ball Valve 1 inch,Delhi,24,48,6,4.0,100.0

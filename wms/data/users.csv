@@ -1,0 +1,3 @@
+username,salt,hash,role
+admin,s1,f769f6450ba0efa1f45a898a42c691f9110d9f9e3ca365ffa50318795c7682bf,admin
+staff,s2,5005a0a90659a6a52656e50a7f41506ab5359b30f8fa0b9474a407ae92cfe663,staff
