@@ -1,0 +1,3 @@
+wms/out/
+wms/*.class
+wms/data/inventory_large.csv
